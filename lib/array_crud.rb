@@ -17,7 +17,7 @@ the_beatles.unshift("wow")
 end
 
 def remove_element_from_end_of_array(array)
-  the_beatles = [ "John Lennon", "Paul McCartney", "Ringo Starr", "George Harrison"]
+
 
 end
 
