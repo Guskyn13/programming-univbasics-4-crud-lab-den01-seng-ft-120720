@@ -18,7 +18,7 @@ end
 
 def remove_element_from_end_of_array(array)
   the_beatles = [ "John Lennon", "Paul McCartney", "Ringo Starr", "George Harrison"]
-George Harrison = the_beatles.pop
+George Harrison_beatles = the_beatles.pop
 end
 
 def remove_element_from_start_of_array(array)
